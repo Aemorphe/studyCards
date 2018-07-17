@@ -1,27 +1,13 @@
 {
   "expo": {
-    "name": "hackthon-study-card",
-    "description": "This project is really great.",
-    "slug": "hackthon-study-card",
-    "privacy": "public",
-    "sdkVersion": "28.0.0",
-    "platforms": ["ios", "android"],
-    "version": "1.0.0",
+    "sdkVersion": "22.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "splash": {
-      "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
+    "name": "Flashcards",
+    "description": "Quiz yourself and learn a little more every day.",
+    "slug": "pf",
+    "version": "1.0",
+    "android": {
+      "package": "org.pfflascards.exp"
     }
   }
 }
